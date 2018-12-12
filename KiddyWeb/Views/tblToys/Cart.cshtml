@@ -1,0 +1,281 @@
+﻿@model IEnumerable<KiddyWeb.Models.ToyDTO>
+@{
+    ViewBag.Page = "Cart";
+}
+<link href="~/Content/styles/cart.css" rel="stylesheet" />
+<link href="~/Content/styles/cart_responsive.css" rel="stylesheet" />
+<script src="~/Content/js/cart.js"></script>
+<script type="text/javascript"
+        src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">
+</script>
+<script>
+    function ClearCart() {
+
+        localStorage.clear();
+        location.href = "http://localhost:57422/tblToys/Cart";
+    }
+    function UpdateCart(toyid) {
+        var updateQuantity = document.getElementsByClassName("quantity_input_" + toyid)[0].value;
+        alert("Edit success!");
+        var toyData = localStorage.getItem("listOfToys");
+        var toys = JSON.parse(toyData);
+        for (var i = 0; i < toys.length; i++) {
+            if (toys[i].id == toyid) {
+                toys[i].quantity = parseInt(updateQuantity);
+            }
+        }
+        localStorage.clear();
+        localStorage.setItem("listOfToys", JSON.stringify(toys));
+    };
+    function LoadCart() {
+        var form = document.getElementById("cart-submit");
+        var toyData = localStorage.getItem("listOfToys");
+        var input = document.getElementById("listObject");
+        input.value = toyData;
+        form.submit();
+    };
+
+    function InputToys() {
+        var toyData = localStorage.getItem("listOfToys");
+        var toys = JSON.parse(toyData);
+        var text = "Update ";
+        for (var i = 0; i < toys.length; i++) {
+            text += + toys[i].quantity + "-" + toys[i].name + ', ';
+        }
+        document.getElementById("UpdateToys").innerHTML = text;
+    }
+    function LoadProduct() {
+        var form = document.getElementById("cart-checkout");
+        var toyData = localStorage.getItem("listOfToys");
+        var input = document.getElementById("listObject2");
+        input.value = toyData;
+        form.submit();
+    };
+
+
+</script>
+
+<div class="super_container">
+    <!---Submit Cart-->
+    <form id="cart-checkout" action="/tblToys/Checkout" method="post">
+        <input type="hidden" name="listObject" id="listObject2" />
+
+    </form>
+    <!---Submit Cart-->
+    <form id="cart-submit" action="/tblToys/Cart" method="post">
+        <input type="hidden" name="listObject" id="listObject" />
+
+    </form>
+
+    <!--Update Cart Modal-->
+    <div class="modal fade" id="myModal2">
+        <div class="col-sm-10 form-group-lg">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content" style="width:600px; height:300px;">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header" style="color:black;">
+                        <h4 class="modal-title">Update Cart</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body" style="color:black;">
+                        <p id="UpdateToys" style="color:black;"></p>
+                    </div>
+
+                    <!-- Modal footer -->
+
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-outline-danger" data-dismiss="modal">No</button>
+                        <button type="button" class="btn btn-outline-success" data-dismiss="modal" onclick="LoadCart()">Yes</button>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Clear Cart Modal-->
+    <div class="modal fade" id="myModal">
+        <div class="col-sm-10 form-group-lg">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content" style="width:600px; height:200px;">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header" style="color:black;">
+                        <h4 class="modal-title">Clear Cart</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body" style="color:black;">
+                        <p style="text-align:center;">Are you sure to clear your cart?</p>
+                    </div>
+
+                    <!-- Modal footer -->
+
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-outline-danger" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-outline-success" data-dismiss="modal" onclick="ClearCart()">Yes</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <!-- Home -->
+    <div class="home">
+        <div class="home_container">
+            <div class="home_background" style="background-image:url(../../Content/images/cart.jpg)"></div>
+            <div class="home_content_container">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="home_content">
+                                <div class="breadcrumbs">
+                                    <ul>
+                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="categories.html">Categories</a></li>
+                                        <li>Shopping Cart</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Cart Info -->
+
+    <div class="cart_info">
+        <div class="container">
+
+
+            @if (Model == null)
+            {
+                <div class="row row_cart_buttons">
+                    <div class="col">
+                        <div class="cart_buttons d-flex flex-lg-row flex-column align-items-start justify-content-start" style="margin-left:450px; margin-bottom:100px">
+                            <div class="button continue_shopping_button"><a href="http://localhost:57422/tblToys/Index">Continue shopping</a></div>
+                        </div>
+                    </div>
+                </div>
+            }
+            @{ double? subtotal = 0;}
+
+            @if (Model != null)
+            {
+                <div class="row">
+                    <div class="col">
+                        <!-- Column Titles -->
+                        <div class="cart_info_columns clearfix">
+                            <div class="cart_info_col cart_info_col_product">Product</div>
+                            <div class="cart_info_col cart_info_col_price">Price</div>
+                            <div class="cart_info_col cart_info_col_quantity">Quantity</div>
+                            <div class="cart_info_col cart_info_col_total">Total</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row cart_items_row" id="toyInfo">
+                    <div class="col">
+                        @foreach (var toy in Model)
+                        {
+                            <!-- Cart Item -->
+                            <div class="cart_item d-flex flex-lg-row flex-column align-items-lg-center align-items-start justify-content-start">
+                                <!-- Name -->
+                                <div class="cart_item_product d-flex flex-row align-items-center justify-content-start">
+                                    <div class="cart_item_image">
+                                        @{
+                                            string toyImg = "toy_" + toy.id + ".jpg";
+                                        }
+                                        <div><img src="~/Content/images/@toyImg" alt=""></div>
+                                    </div>
+                                    <div class="cart_item_name_container">
+                                        <div class="cart_item_name"><a href="http://localhost:57422/tblToys/Details/@toy.id">@toy.name</a></div>
+                                        <div class="cart_item_edit"><a onclick="UpdateCart(@toy.id)" style="cursor:pointer">Edit Product</a></div>
+                                    </div>
+                                </div>
+                                <!-- Price -->
+                                <div class="cart_item_price">$@toy.price</div>
+                                <!-- Quantity -->
+                                <div class="cart_item_quantity">
+                                    <div class="product_quantity_container">
+                                        <div class="product_quantity clearfix">
+                                            <span>Qty</span>
+                                            <input id="quantity_input" class="quantity_input_@toy.id" type="text" pattern="[0-9]*" value="@toy.quantity">
+                                            <div class="quantity_buttons">
+                                                <div id="quantity_inc_button" class="quantity_inc quantity_control"><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
+                                                <div id="quantity_dec_button" class="quantity_dec quantity_control"><i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Total -->
+                                @{
+                                    double? total = toy.price * toy.quantity;
+                                    subtotal += total;
+                                }
+                                <div class="cart_item_total">$@total</div>
+                            </div>
+                                    }
+
+                    </div>
+                </div>
+
+
+                <div class="row row_cart_buttons">
+                    <div class="col">
+                        <div class="cart_buttons d-flex flex-lg-row flex-column align-items-start justify-content-start">
+                            <div class="button continue_shopping_button"><a href="http://localhost:57422/tblToys/Index">Continue shopping</a></div>
+                            <div class="cart_buttons_right ml-lg-auto">
+                                <div class="button clear_cart_button"><a href="#" data-toggle="modal" data-target="#myModal">Clear cart</a></div>
+                                <div class="button update_cart_button"><a href="#" data-toggle="modal" data-target="#myModal2" onclick="InputToys()">Update cart</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            <div class="row row_extra">
+
+                <div class="col-lg-6 offset-lg-3">
+                    <div class="cart_total">
+                        <div class="section_title">Cart total</div>
+                        <div class="section_subtitle">Final info</div>
+                        <div class="cart_total_container">
+                            <ul>
+                                <li class="d-flex flex-row align-items-center justify-content-start">
+                                    <div class="cart_total_title">Subtotal</div>
+                                    <div class="cart_total_value ml-auto">$@subtotal</div>
+                                </li>
+                                <li class="d-flex flex-row align-items-center justify-content-start">
+                                    <div class="cart_total_title">Shipping</div>
+                                    <div class="cart_total_value ml-auto">Free</div>
+                                </li>
+                                <li class="d-flex flex-row align-items-center justify-content-start">
+                                    <div class="cart_total_title">Total</div>
+                                    <div class="cart_total_value ml-auto">$@subtotal</div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="button checkout_button"><a style="cursor:pointer;" onclick="LoadProduct()">Proceed to checkout</a></div>
+                    </div>
+                </div>
+            </div>
+                                    }
+        </div>
+    </div>
+
+
+
+</div>
+

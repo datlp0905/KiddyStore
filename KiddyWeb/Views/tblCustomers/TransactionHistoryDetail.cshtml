@@ -1,0 +1,167 @@
+﻿@model IEnumerable<KiddyWeb.Models.OrderDetailDTO>
+@{ 
+    ViewBag.Page = "Transaction";
+}
+
+<div class="super_container">
+    <!-- Home -->
+
+    <div class="home">
+        <div class="home_container">
+            <div class="home_background" style="background-image:url(/Content/images/cart.jpg)"></div>
+            <div class="home_content_container">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="home_content">
+                                <div class="breadcrumbs">
+                                    <ul>
+                                        <li>@Html.ActionLink("Home", "Index", "tblToys")</li>
+                                        <li>@Html.ActionLink("Transaction History", "TransactionHistory", "tblCustomers")</li>
+                                        <li>Detail</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Cart Info -->
+
+    <div class="cart_info">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3" style="margin-bottom: 100px !important;">
+                    <div class="cart_total">
+                        <div class="cart_total_container">
+                            <ul>
+                                <li class="d-flex flex-row align-items-center justify-content-start">
+                                    <div class="cart_total_title">ID</div>
+                                    <div class="cart_total_value ml-auto">@ViewBag.Order.id</div>
+                                </li>
+                                <li class="d-flex flex-row align-items-center justify-content-start">
+                                    <div class="cart_total_title">Date</div>
+                                    <div class="cart_total_value ml-auto">@ViewBag.Order.date.ToString("dd-MM-yyyy")</div>
+                                </li>
+                                <li class="d-flex flex-row align-items-center justify-content-start">
+                                    <div class="cart_total_title">Payment</div>
+                                    <div class="cart_total_value ml-auto">@ViewBag.Order.payment</div>
+                                </li>
+                                <li class="d-flex flex-row align-items-center justify-content-start">
+                                    <div class="cart_total_title">Address</div>
+                                    <div class="cart_total_value ml-auto">@ViewBag.Order.address</div>
+                                </li>
+                                <li class="d-flex flex-row align-items-center justify-content-start">
+                                    <div class="cart_total_title">Status</div>
+                                    <div class="cart_total_value ml-auto">
+                                        @if (ViewBag.Order.status == 0)
+                                        {
+                                            <p class="text-dark">Pending</p>
+                                        }
+                                        else if (ViewBag.Order.status == 1)
+                                        {
+                                            <p class="text-success">Success</p>
+                                        }
+                                        else
+                                        {
+                                            <p class="text-danger">Failed</p>
+                                        }
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <!-- Column Titles -->
+                    <div class="cart_info_columns clearfix">
+                        <div class="cart_info_col cart_info_col_product">Product</div>
+                        <div class="cart_info_col cart_info_col_price">Price</div>
+                        <div class="cart_info_col cart_info_col_quantity">Quantity</div>
+                        <div class="cart_info_col cart_info_col_total">Total</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row cart_items_row">
+                <div class="col">
+                    @{ 
+                        double? subtotal = 0;
+                    }
+                    @foreach (var orderDetail in Model)
+                    {
+                        <!-- Cart Item -->
+                        <div class="cart_item d-flex flex-lg-row flex-column align-items-lg-center align-items-start justify-content-start">
+                            <!-- Name -->
+                            <div class="cart_item_product d-flex flex-row align-items-center justify-content-start">
+                                <div class="cart_item_image">
+                                    @{ 
+                                        string imageName = "toy_" + orderDetail.toyID + ".jpg";
+                                    }
+                                    <div><img src="~/Content/images/@imageName" alt="@orderDetail.name"></div>
+                                </div>
+                                <div class="cart_item_name_container">
+                                    <div class="cart_item_name">
+                                        <h4>@orderDetail.name</h4>
+                                        @if (ViewBag.Order.status == 1 && orderDetail.isFeedback == false)
+                                        {
+                                        <form action="ProductFeedback" target="_blank">
+                                            <input type="hidden" name="toyID" value="@orderDetail.toyID"/>
+                                            <input type="hidden" name="name" value="@orderDetail.name"/>
+                                            <input type="hidden" name="orderID" value="@orderDetail.id"/>
+                                            <button class="btn btn-outline-warning" type="submit">
+                                                Feedback
+                                            </button>
+                                        </form>
+                                            
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Price -->
+                            <div class="cart_item_price">@orderDetail.price</div>
+                            <!-- Quantity -->
+                            <div class="cart_item_quantity">
+                                <div class="product_quantity_container">
+                                    @orderDetail.quantity
+                                </div>
+                            </div>
+                            <!-- Total -->
+                            @{ 
+                                double? total = orderDetail.quantity * orderDetail.price;
+                                subtotal += total;
+                            }
+                            <div class="cart_item_total">$@total</div>
+                        </div>
+                    }
+
+                    <!-- Cart Item -->
+                    <div class="cart_item d-flex flex-lg-row flex-column align-items-lg-center align-items-start justify-content-start">
+                        <!-- Name -->
+                        <div class="cart_item_product d-flex flex-row align-items-center justify-content-start">
+
+
+                        </div>
+                        <!-- Price -->
+                        <div class="cart_item_price"><b>Subtotal</b></div>
+                        <!-- Quantity -->
+                        <div class="cart_item_quantity">
+
+                        </div>
+                        <!-- Total -->
+                        <div class="cart_item_total">$@subtotal</div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+</div>
+

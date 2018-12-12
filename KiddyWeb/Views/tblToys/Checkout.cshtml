@@ -1,0 +1,155 @@
+﻿@model IEnumerable<KiddyWeb.Models.ToyDTO>
+
+@{
+    ViewBag.Title = "Checkout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/styles/checkout.css" rel="stylesheet" />
+<link href="~/Content/styles/checkout_responsive.css" rel="stylesheet" />
+<script src="~/Content/js/checkout.js"></script>
+<script>
+    function Submit() {
+        var form = document.getElementById("checkout_form");
+        var toyData = localStorage.getItem("listOfToys");
+        var input = document.getElementById("listToys");
+        var address = document.getElementById("checkout_address");
+        if (address.value == "") {
+
+        } else {
+            input.value = toyData;
+            localStorage.clear();
+            form.submit();
+        }
+    };
+</script>
+
+<div class="super_container">
+    <!-- Checkout -->
+
+    <div class="checkout">
+        <div class="container">
+            <form action="/tblToys/CheckoutCart" id="checkout_form" class="checkout_form" method="post">
+                <div class="row">
+
+                    <!-- Billing Info -->
+                    <div class="col-lg-6">
+                        <div class="billing checkout_section">
+                            <div class="section_title">Billing Address</div>
+                            <div class="section_subtitle">Enter your address info</div>
+                            <div class="checkout_form_container">
+
+                                <!--- Form -->
+
+                                <input type="hidden" name="listObject" id="listToys" />
+                                <div class="row">
+                                    @if (Session["USER"] == null)
+                                    {
+                                        <div class="col-xl-6">
+                                            <!-- Name -->
+                                            <label for="checkout_name">First Name*</label>
+                                            <input type="text" id="checkout_name" class="checkout_input"
+                                                   required="required" name="firstname">
+                                        </div>
+                                        <div class="col-xl-6 last_name_col">
+                                            <!-- Last Name -->
+                                            <label for="checkout_last_name">Last Name*</label>
+                                            <input type="text" id="checkout_last_name" class="checkout_input"
+                                                   required="required" name="lastname">
+                                        </div>
+                                    }
+                                </div>
+                                <div>
+                                    <!-- Address -->
+                                    <label for="checkout_address">Address*</label>
+                                    <input type="text" id="checkout_address" class="checkout_input"
+                                           required="required" name="address">
+                                </div>
+                                @if (Session["USER"] == null)
+                                {
+                                    <div>
+                                        <!-- Email -->
+                                        <label for="checkout_email">Email Address*</label>
+                                        <input type="email" id="checkout_email" class="checkout_input"
+                                               required="required" name="email">
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Order Info -->
+
+                    <div class="col-lg-6">
+                        <div class="order checkout_section">
+                            <div class="section_title">Your order</div>
+                            <div class="section_subtitle">Order details</div>
+
+                            <!-- Order details -->
+                            <div class="order_list_container">
+                                <div class="order_list_bar d-flex flex-row align-items-center justify-content-start">
+                                    <div class="order_list_title">Product</div>
+                                    <div class="order_list_value ml-auto">Total</div>
+                                </div>
+                                <ul class="order_list">
+                                    @{
+                                        double? subTotal = 0;
+                                    }
+                                    @foreach (var item in Model)
+                                    {
+                                        <li class="d-flex flex-row align-items-center justify-content-start">
+                                            <div class="order_list_title">@item.name</div>
+                                            @{
+                                                double? total = item.price * item.quantity;
+                                                subTotal += total;
+                                            }
+                                            <div class="order_list_value ml-auto">$@total</div>
+                                        </li>
+
+                                    }
+                                        <li class="d-flex flex-row align-items-center justify-content-start">
+                                            <div class="order_list_title"><b>Subtotal</b></div>
+                                            <div class="order_list_value ml-auto"><b>$@subTotal</b></div>
+                                        </li>
+
+                                </ul>
+                            </div>
+
+                            <!-- Payment Options -->
+                            <div class="payment">
+                                <div class="payment_options">
+                                    <label class="payment_option clearfix">
+                                        Paypal
+                                        <input type="radio" name="payment" value="Paypal">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                    <label class="payment_option clearfix">
+                                        Cach on delivery
+                                        <input type="radio" name="payment" value="Cach on delivery">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                    <label class="payment_option clearfix">
+                                        Credit card
+                                        <input type="radio" name="payment" value="Credit card">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                    <label class="payment_option clearfix">
+                                        Direct bank transfer
+                                        <input type="radio" checked="checked" name="payment" value="Direct bank transfer">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Order Text -->
+                            <div class="order_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra temp or so dales. Phasellus sagittis auctor gravida. Integ er bibendum sodales arcu id te mpus. Ut consectetur lacus.</div>
+                            <div class="col-lg-4 offset-lg-4">
+                                <button type="submit" class="btn btn-outline-dark" onclick="Submit();">Checkout</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

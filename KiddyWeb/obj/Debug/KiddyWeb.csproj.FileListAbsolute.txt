@@ -1,0 +1,225 @@
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.dll.config
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.dll
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.pdb
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.dll
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Helpers.dll
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Mvc.dll
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Razor.dll
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.dll
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.xml
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Razor.xml
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.xml
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Helpers.xml
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Mvc.xml
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csprojAssemblyReference.cache
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csproj.CoreCompileInputs.cache
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csproj.CopyComplete
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.dll
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.pdb
+<<<<<<< HEAD
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csprojAssemblyReference.cache
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csproj.CoreCompileInputs.cache
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.pdb
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.dll.config
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.pdb
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\Newtonsoft.Json.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Helpers.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Mvc.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Razor.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\Newtonsoft.Json.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Razor.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Helpers.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Mvc.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csproj.CopyComplete
+=======
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.dll.config
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.pdb
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Helpers.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Mvc.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Razor.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Razor.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Helpers.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Mvc.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csprojAssemblyReference.cache
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csproj.CoreCompileInputs.cache
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csproj.CopyComplete
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.pdb
+>>>>>>> 8b6074cf319de3c8ee97bc5d817673d7e16b981b
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.dll.config
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.pdb
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\Newtonsoft.Json.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Helpers.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Mvc.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Razor.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\Newtonsoft.Json.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Razor.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Helpers.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Mvc.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csprojAssemblyReference.cache
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csproj.CoreCompileInputs.cache
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csproj.CopyComplete
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.pdb
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.Mvc.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.Mvc.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\Newtonsoft.Json.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.Mvc.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\Newtonsoft.Json.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.Mvc.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+>>>>>>> c82707f95342fa11459245abd5fad79cedd3350f
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.Mvc.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.Mvc.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.WebHost.xml
+>>>>>>> cee1faaa14270ab98c65a1a4657762f6e879ba57
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.dll.config
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\KiddyWeb.pdb
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\Newtonsoft.Json.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.Mvc.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Helpers.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Mvc.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Razor.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\Newtonsoft.Json.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\PagedList.Mvc.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Razor.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Helpers.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\System.Web.Mvc.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csprojAssemblyReference.cache
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csproj.CoreCompileInputs.cache
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csproj.CopyComplete
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.pdb
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\KiddyWeb.dll.config
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\KiddyWeb.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\KiddyWeb.pdb
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\EntityFramework.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\EntityFramework.SqlServer.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\Newtonsoft.Json.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\PagedList.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\PagedList.Mvc.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Net.Http.Formatting.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Helpers.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Http.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Http.WebHost.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Mvc.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Razor.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Deployment.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Razor.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\EntityFramework.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\EntityFramework.SqlServer.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\Newtonsoft.Json.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\PagedList.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\PagedList.Mvc.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Net.Http.Formatting.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Http.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Http.WebHost.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Razor.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Deployment.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Webpages.Razor.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Helpers.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\System.Web.Mvc.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csprojAssemblyReference.cache
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csproj.CoreCompileInputs.cache
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.csproj.CopyComplete
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyWeb\obj\Debug\KiddyWeb.pdb

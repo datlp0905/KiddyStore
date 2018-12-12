@@ -1,0 +1,163 @@
+﻿@using PagedList.Mvc;
+@using PagedList;
+@model IPagedList<KiddyWeb.Models.ToyDTO>
+@{ 
+    ViewBag.Page = "Category";
+}
+
+<div class="super_container">
+
+    <!-- Home -->
+
+    <div class="home">
+        <div class="home_container">
+            <div class="home_background" style="background-image:url(../../Content/images/toystore2_banner.jpg)"></div>
+            <div class="home_content_container">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="home_content">
+                                <div class="home_title">@ViewBag.Category<span>.</span></div>
+                                <div class="home_text"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie eros. Sed viverra velit venenatis fermentum luctus.</p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Products -->
+
+    <div class="products">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+
+                    <!-- Product Sorting -->
+                    <div class="sorting_bar d-flex flex-md-row flex-column align-items-md-center justify-content-md-start">
+                        <div class="results">Showing <span>@Model.Count()</span> results</div>
+                        <div class="sorting_container ml-md-auto">
+                            <div class="sorting">
+                                <ul class="item_sorting">
+                                    <li>
+                                        <span class="sorting_text">Sort by</span>
+                                        <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                                        <ul>
+                                            <li class="product_sorting_btn" data-isotope-option='{ "sortBy": "original-order" }'><span>Default</span></li>
+                                            <li class="product_sorting_btn" data-isotope-option='{ "sortBy": "price" }'><span>Price</span></li>
+                                            <li class="product_sorting_btn" data-isotope-option='{ "sortBy": "name" }'><span>Name</span></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+
+                    <div class="product_grid">
+                        @foreach (var toy in Model)
+                        {
+                            <!-- Product -->
+                            <div class="product">
+                                @{
+                                    string imageName = "toy_" + toy.id + ".jpg";
+                                }
+                                <div class="product_image"><img src="~/Content/images/@imageName" alt=""></div>
+                                <div class="product_extra product_new"><a href="categories.html">New</a></div>
+                                <div class="product_content">
+                                    <div class="product_title">@Html.ActionLink(toy.name, "Details", new { id = toy.id })</div>
+                                    <div class="product_price">$@toy.price</div>
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                    @Html.PagedListPager(Model, page => Url.Action("Category",
+                               new { page, category = Request.QueryString["category"] }),
+                               new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded,
+                                   DisplayPageCountAndCurrentLocation = true,  ContainerDivClasses = new [] { "product_pagination" }
+                               })
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Icon Boxes -->
+
+    <div class="icon_boxes">
+        <div class="container">
+            <div class="row icon_box_row">
+
+                <!-- Icon Box -->
+                <div class="col-lg-4 icon_box_col">
+                    <div class="icon_box">
+                        <div class="icon_box_image"><img src="~/Content/images/icon_1.svg" alt=""></div>
+                        <div class="icon_box_title">Free Shipping Worldwide</div>
+                        <div class="icon_box_text">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Icon Box -->
+                <div class="col-lg-4 icon_box_col">
+                    <div class="icon_box">
+                        <div class="icon_box_image"><img src="~/Content/images/icon_2.svg" alt=""></div>
+                        <div class="icon_box_title">Free Returns</div>
+                        <div class="icon_box_text">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Icon Box -->
+                <div class="col-lg-4 icon_box_col">
+                    <div class="icon_box">
+                        <div class="icon_box_image"><img src="~/Content/images/icon_3.svg" alt=""></div>
+                        <div class="icon_box_title">24h Fast Support</div>
+                        <div class="icon_box_text">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Footer -->
+
+    <div class="footer_overlay"></div>
+    <footer class="footer">
+        <div class="footer_background" style="background-image:url(images/footer.jpg)"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="footer_content d-flex flex-lg-row flex-column align-items-center justify-content-lg-start justify-content-center">
+                        <div class="footer_logo"><a href="#">Sublime.</a></div>
+                        <div class="copyright ml-auto mr-auto">
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            Copyright &copy;
+                            <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        </div>
+                        <div class="footer_social ml-lg-auto">
+                            <ul>
+                                <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+

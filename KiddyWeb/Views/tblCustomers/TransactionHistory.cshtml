@@ -1,0 +1,160 @@
+﻿@model IEnumerable<KiddyWeb.Models.OrderDTO>
+@{ 
+    ViewBag.Page = "Transaction";
+}
+
+<div class="super_container">
+
+    <!-- Home -->
+
+    <div class="home">
+        <div class="home_container">
+            <div class="home_background" style="background-image:url(/Content/images/cart.jpg)"></div>
+            <div class="home_content_container">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="home_content">
+                                <div class="breadcrumbs">
+                                    <ul>
+                                        <li>@Html.ActionLink("Home", "Index", "tblToys")</li>
+                                        <li>Transaction History</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Cart Info -->
+
+    <div class="cart_info">
+        <div class="container">
+            @if (Model.Count() == 0)
+            {
+                <div class="row">
+                    <div class="col">
+                        <p class="text-center text-danger">You have bought nothing yet!</p>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="row">
+                    <div class="col">
+                        <!-- Column Titles -->
+                        <div class="cart_info_columns clearfix">
+                            <div class="cart_info_col cart_info_col_product">Order ID</div>
+                            <div class="cart_info_col cart_info_col_price">Date</div>
+                            <div class="cart_info_col cart_info_col_quantity">-</div>
+                            <div class="cart_info_col cart_info_col_total">Status</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row cart_items_row">
+                    <div class="col">
+                        @foreach (var order in Model)
+                        {
+                            <!-- Cart Item -->
+                            <div class="cart_item d-flex flex-lg-row flex-column align-items-lg-center align-items-start justify-content-start">
+                                <!-- ID -->
+                                <div class="cart_item_product d-flex flex-row align-items-center justify-content-start">
+                                    <div class="cart_item_image">
+                                        <div><img src="~/Content/images/cart.png" alt=""></div>
+                                    </div>
+                                    <div class="cart_item_name_container">
+                                        <div class="cart_item_name">
+                                            <form action="TransactionHistoryDetail" method="post">
+                                                <input type="hidden" name="id" value="@order.id" />
+                                                <input type="hidden" name="status" value="@order.status" />
+                                                <input type="hidden" name="date" value="@order.date" />
+                                                <input type="hidden" name="payment" value="@order.payment" />
+                                                <input type="hidden" name="address" value="@order.address" />
+                                                <button type="submit" class="btn btn-outline-success"
+                                                        title="Click to see detail">
+                                                    #@order.id
+                                                </button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Date -->
+                                <div class="cart_item_price">@order.date.ToString("dd-MM-yyyy")</div>
+                                <!-- Quantity -->
+                                <div class="cart_item_quantity">
+
+                                </div>
+                                <!-- Status -->
+                                <div class="cart_item_total">
+                                    @if (order.status == 0)
+                                    {
+                                        <p class="text-dark">Pending</p>
+                                    }
+                                    else if (order.status == 1)
+                                    {
+                                        <p class="text-success">Success</p>
+                                    }
+                                    else
+                                    {
+                                        <p class="text-danger">Failed</p>
+                                    }
+                                </div>
+                            </div>
+
+                        }
+                    </div>
+                </div>
+            }
+
+
+        </div>
+    </div>
+</div>
+@*<!-- Footer -->
+
+            <div class="footer_overlay"></div>
+            <footer class="footer">
+                <div class="footer_background" style="background-image:url(images/footer.jpg)"></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="footer_content d-flex flex-lg-row flex-column align-items-center justify-content-lg-start justify-content-center">
+                                <div class="footer_logo"><a href="#">Sublime.</a></div>
+                                <div class="copyright ml-auto mr-auto">
+                                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                    Copyright &copy;<script>
+                                        document.write(new Date().getFullYear());
+                                    </script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                </div>
+                                <div class="footer_social ml-lg-auto">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+        <script src="js/jquery-3.2.1.min.js"></script>
+        <script src="styles/bootstrap4/popper.js"></script>
+        <script src="styles/bootstrap4/bootstrap.min.js"></script>
+        <script src="plugins/greensock/TweenMax.min.js"></script>
+        <script src="plugins/greensock/TimelineMax.min.js"></script>
+        <script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+        <script src="plugins/greensock/animation.gsap.min.js"></script>
+        <script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+        <script src="plugins/easing/easing.js"></script>
+        <script src="plugins/parallax-js-master/parallax.min.js"></script>
+        <script src="js/cart.js"></script>
+    </body>
+    </html>*@

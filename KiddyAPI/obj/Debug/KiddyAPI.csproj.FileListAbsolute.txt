@@ -1,0 +1,515 @@
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\ApplicationInsights.config
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\KiddyAPI.dll.config
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\KiddyAPI.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\KiddyAPI.pdb
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csc.exe
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csc.exe.config
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csc.rsp
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csi.exe
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csi.exe.config
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csi.rsp
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.AppContext.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Console.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.exe
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.exe.config
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.rsp
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Antlr3.Runtime.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Web.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Newtonsoft.Json.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Helpers.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Mvc.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Optimization.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Razor.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\WebGrease.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Newtonsoft.Json.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Helpers.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Mvc.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Optimization.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Razor.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Web.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csproj.CoreCompileInputs.cache
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csproj.CopyComplete
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.pdb
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\AutoMapper.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\bin\AutoMapper.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\ApplicationInsights.config
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\KiddyAPI.dll.config
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\KiddyAPI.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\KiddyAPI.pdb
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csc.exe
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csc.exe.config
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csc.rsp
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csi.exe
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csi.exe.config
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csi.rsp
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Console.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.exe
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.exe.config
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.rsp
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Antlr3.Runtime.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\AutoMapper.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Newtonsoft.Json.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Helpers.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Mvc.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Optimization.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Razor.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\WebGrease.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\AutoMapper.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Newtonsoft.Json.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Helpers.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Mvc.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Optimization.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Razor.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csprojAssemblyReference.cache
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csproj.CoreCompileInputs.cache
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csproj.CopyComplete
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.pdb
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\ApplicationInsights.config
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\KiddyAPI.dll.config
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\KiddyAPI.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\KiddyAPI.pdb
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csc.exe
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csc.exe.config
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csc.rsp
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csi.exe
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csi.exe.config
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csi.rsp
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Console.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.exe
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.exe.config
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.rsp
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Antlr3.Runtime.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\AutoMapper.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Newtonsoft.Json.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Helpers.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Mvc.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Optimization.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Razor.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\WebGrease.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\AutoMapper.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Newtonsoft.Json.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Helpers.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Mvc.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Optimization.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Razor.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csprojAssemblyReference.cache
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csproj.CoreCompileInputs.cache
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csproj.CopyComplete
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.pdb
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\ApplicationInsights.config
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\KiddyAPI.dll.config
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\KiddyAPI.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\KiddyAPI.pdb
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csc.exe
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csc.exe.config
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csc.rsp
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csi.exe
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csi.exe.config
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\csi.rsp
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Console.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.exe
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.exe.config
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.rsp
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Antlr3.Runtime.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\AutoMapper.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Newtonsoft.Json.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Helpers.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Mvc.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Optimization.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Razor.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\WebGrease.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\AutoMapper.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Newtonsoft.Json.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Helpers.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Mvc.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Optimization.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.Razor.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csprojAssemblyReference.cache
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csproj.CoreCompileInputs.cache
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csproj.CopyComplete
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.pdb
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csprojAssemblyReference.cache
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\ApplicationInsights.config
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\KiddyAPI.dll.config
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\KiddyAPI.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\KiddyAPI.pdb
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\csc.exe
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\csc.exe.config
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\csc.rsp
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\csi.exe
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\csi.exe.config
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\csi.rsp
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.AppContext.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Console.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Compression.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.IO.Pipes.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Claims.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.ValueTuple.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XPath.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.exe
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.exe.config
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\vbc.rsp
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\VBCSCompiler.exe
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Antlr3.Runtime.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\AutoMapper.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\EntityFramework.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\EntityFramework.SqlServer.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Web.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.ApplicationInsights.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Newtonsoft.Json.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Net.Http.Formatting.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.Helpers.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.Http.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.Http.WebHost.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.Mvc.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.Optimization.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.Razor.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Deployment.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Razor.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\WebGrease.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\AutoMapper.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\EntityFramework.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\EntityFramework.SqlServer.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Newtonsoft.Json.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Net.Http.Formatting.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.Helpers.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.Http.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.Http.WebHost.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.Mvc.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.Optimization.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.Razor.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Deployment.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Web.WebPages.Razor.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Antlr3.Runtime.pdb
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.AI.Web.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csprojAssemblyReference.cache
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csproj.CoreCompileInputs.cache
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.csproj.CopyComplete
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyAPI\obj\Debug\KiddyAPI.pdb

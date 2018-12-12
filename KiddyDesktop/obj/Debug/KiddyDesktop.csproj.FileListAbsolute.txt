@@ -1,0 +1,127 @@
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe.config
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.pdb
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csprojAssemblyReference.cache
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmLogin.resources
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmMain.resources
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.Properties.Resources.resources
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.GenerateResource.cache
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.CoreCompileInputs.cache
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.exe
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.pdb
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe.config
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.pdb
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csprojAssemblyReference.cache
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmLogin.resources
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmMain.resources
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.Properties.Resources.resources
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.GenerateResource.cache
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.CoreCompileInputs.cache
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.exe
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.pdb
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe.config
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.pdb
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csprojAssemblyReference.cache
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmLogin.resources
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmMain.resources
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.Properties.Resources.resources
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.GenerateResource.cache
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.CoreCompileInputs.cache
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.exe
+C:\Users\DAT\Documents\My document\Chuyên ngành 5 HK Fall 2018\.Net and C# (PRN292)_KiemHH\Project\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.pdb
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.CopyComplete
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.ChangePasswordForm.resources
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe.config
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.pdb
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csprojAssemblyReference.cache
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.ChangePasswordForm.resources
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmLogin.resources
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmMain.resources
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.Properties.Resources.resources
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.GenerateResource.cache
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.CoreCompileInputs.cache
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.CopyComplete
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.exe
+C:\Users\DAT\source\repos\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.pdb
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ykdns\Desktop\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csprojAssemblyReference.cache
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.ChangePasswordForm.resources
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmLogin.resources
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmMain.resources
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.Properties.Resources.resources
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.GenerateResource.cache
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.CoreCompileInputs.cache
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.exe
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.pdb
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe.config
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.pdb
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ykdns\Desktop\New folder\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.CopyComplete
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe.config
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.pdb
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csprojAssemblyReference.cache
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.ChangePasswordForm.resources
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmLogin.resources
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmMain.resources
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.Properties.Resources.resources
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.GenerateResource.cache
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.CoreCompileInputs.cache
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.CopyComplete
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.exe
+C:\Users\ykdns\Desktop\AAA\Projec_C-\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.pdb
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe.config
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.exe
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\bin\Debug\KiddyDesktop.pdb
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.SqlServer.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\bin\Debug\Newtonsoft.Json.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\bin\Debug\System.Net.Http.Formatting.dll
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\bin\Debug\Newtonsoft.Json.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\bin\Debug\EntityFramework.SqlServer.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\bin\Debug\System.Net.Http.Formatting.xml
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csprojAssemblyReference.cache
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.ChangePasswordForm.resources
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmLogin.resources
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.frmMain.resources
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.Properties.Resources.resources
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.GenerateResource.cache
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.CoreCompileInputs.cache
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.csproj.CopyComplete
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.exe
+D:\KiddyStore_SE1271\KiddyDesktop\KiddyDesktop\obj\Debug\KiddyDesktop.pdb

@@ -1,0 +1,220 @@
+﻿@model KiddyWeb.Models.ToyDTO
+@{
+    ViewBag.Page = "Details";
+}
+
+
+
+<div class="super_container">
+
+    <!-- Product Details -->
+
+    <div class="product_details">
+        <div class="container">
+            <div class="row details_row">
+
+                <!-- Product Image -->
+                <div class="col-lg-6">
+                    <div class="details_image">
+                        @{
+                            string toyName = "toy_" + Model.id + ".jpg";
+                        }
+                        <div class="details_image_large"><img src="~/Content/images/@toyName" alt=""></div>
+
+                    </div>
+                </div>
+
+                <!-- Product Content -->
+                <div class="col-lg-6">
+                    <br />
+                    <br />
+                    <div class="details_content">
+                        <div class="details_name">@Model.name</div>
+                        <div class="details_price">$@Model.price</div>
+
+                        <!-- In Stock -->
+                        <div class="in_stock_container">
+                            <div class="availability">Availability:</div>
+                            <span>In Stock</span>
+                        </div>
+                        <div class="details_text">
+                            <p>@Model.description</p>
+                        </div>
+
+                        <!-- Product Quantity -->
+                        <div class="product_quantity_container">
+                            <div class="product_quantity clearfix">
+                                <span>Qty</span>
+                                <input id="quantity_input" type="text" pattern="[0-9]*" value="1">
+                                <div class="quantity_buttons">
+                                    <div id="quantity_inc_button" class="quantity_inc quantity_control"><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
+                                    <div id="quantity_dec_button" class="quantity_dec quantity_control"><i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+                                </div>
+                            </div>
+                            <div class="button cart_button" onclick="AddToCart()"><a>Add to cart</a></div>
+                        </div>
+
+
+                        <!-- Share -->
+                        <div class="details_share">
+                            <span>Share:</span>
+                            <ul>
+                                <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row description_row">
+                <div class="col">
+                    <div class="order checkout_section">
+                        <div class="section_title">
+                            Feedbacks <span>(@ViewBag.NoFeedback)</span>
+                        </div>
+
+                        <div class="order_list_container">
+
+                            <!-- Feedback -->
+                            @foreach (var item in ViewBag.Feedbacks as IEnumerable<KiddyWeb.Models.FeedbackDTO>)
+                            {
+                                <div class="order checkout_section" style="border-bottom: 1px grey solid">
+                                    <div class="section_title">
+                                        @item.cusName
+                                    </div>
+                                    <div class="section_subtitle">
+                                        @item.content
+                                    </div>
+                                </div>
+                            }
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Products -->
+
+    <div class="products">
+        <div class="container">
+            <div class="row">
+                <div class="col text-center">
+                    <div class="products_title">Related Products</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+
+                    <div class="product_grid">
+
+                        @foreach (var relatedToy in ViewBag.RelatedProduct as IEnumerable<KiddyWeb.Models.ToyDTO>)
+                        {
+                            <!-- Product -->
+                            <div class="product">
+                                @{
+                                    string imageName = "toy_" + relatedToy.id + ".jpg";
+                                }
+                                <div class="product_image"><img src="~/Content/images/@imageName" alt=""></div>
+                                <div class="product_extra product_new"><a href="categories.html">New</a></div>
+                                <div class="product_content">
+                                    <div class="product_title">
+                                        @Html.ActionLink(relatedToy.name, "Details", new { id = relatedToy.id })
+                                    </div>
+                                    <div class="product_price">$@relatedToy.price</div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Footer -->
+
+    <div class="footer_overlay"></div>
+    <footer class="footer">
+        <div class="footer_background" style="background-image:url(images/footer.jpg)"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="footer_content d-flex flex-lg-row flex-column align-items-center justify-content-lg-start justify-content-center">
+                        <div class="footer_logo"><a href="#">Sublime.</a></div>
+                        <div class="copyright ml-auto mr-auto">
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            Copyright &copy;
+                            <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        </div>
+                        <div class="footer_social ml-lg-auto">
+                            <ul>
+                                <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script>
+                            var cart = [];
+                            var Toy = function (id, name, price, quantity) {
+                                this.id = id;
+                                this.name = name;
+                                this.price = price;
+                                this.quantity = quantity
+
+                            };
+                            function AddToCart() {
+                                var cartData = localStorage.getItem("listOfToys");
+                                if (cartData != null) {
+                                    cart = JSON.parse(cartData);
+                                }
+                                var id = @Model.id;
+                                var quantity = parseInt(document.getElementById("quantity_input").value);
+                                if (quantity > 0) {
+                                    var name = "@Model.name";
+                                    var price = @Model.price;
+                                    var quantityDB = @Model.quantity;
+                                    if (quantity < @Model.quantity) {
+                                        var check = false;
+                                        for (var i in cart) {
+                                            if (cart[i].id === id) {
+                                                cart[i].quantity += quantity;
+                                                check = true;
+                                            }
+                                        };
+                                        if (!check) {
+                                            var toy = new Toy(id, name, price, quantity);
+                                            cart.push(toy);
+                                        }
+
+                                        console.log(cart);
+                                        SaveCart();
+                                        document.getElementById("numberProsInCart").innerHTML = "(" + cart.length + ")";
+                                        alert("Add " + quantity + "-" + name + " success!");
+                                    } else {
+                                        alert("Out of Stock!");
+                                    }
+                                }
+
+
+                            }
+                            function SaveCart() {
+                                localStorage.setItem("listOfToys", JSON.stringify(cart));
+                            }
+
+
+    </script>
+</div>
+
